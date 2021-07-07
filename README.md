@@ -8,9 +8,9 @@ Para executar o programa, siga os seguintes passos:
 2. Na pasta em que foram colocados, execute "npm start" no prompt de comando;
 3. Siga as instruções solicitadas pelo programa.
 
-[image-20210707155819246](C:\Users\Gabriel\AppData\Roaming\Typora\typora-user-images\image-20210707155819246.png)
+![image](https://user-images.githubusercontent.com/82124316/124819386-92489d00-df42-11eb-94b9-b2a679946b5f.png)
 
-[image-20210707155907116](C:\Users\Gabriel\AppData\Roaming\Typora\typora-user-images\image-20210707155907116.png)
+![image](https://user-images.githubusercontent.com/82124316/124819434-a1c7e600-df42-11eb-9a81-d7b49b2839cf.png)
 
 Para a elaboração do projeto, utilizei:
 
